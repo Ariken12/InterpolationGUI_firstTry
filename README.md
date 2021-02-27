@@ -8,4 +8,4 @@ Example of input
 Example of output
 ![output](https://github.com/Ariken12/InterpolationGUI_firstTry/blob/master/InterpolationOutput.png)
 
-![guigif](https://i.gyazo.com/e19dc473f368eefee80e64fbb989ff31.mp4)
+![guigif](https://gyazo.com/e19dc473f368eefee80e64fbb989ff31)
